@@ -29,7 +29,6 @@ email-spam-classifier/
 │ ├── preprocessing.py # Text preprocessing functions
 │ ├── model.py # Model training, evaluation, and serialization
 │ └── app.py # Streamlit app code for user interface and prediction
-│── LICENSE
 │── README.md
 ```
 
@@ -53,9 +52,6 @@ Enter an email message in the text area and click "Predict" to see if it is spam
 
 ## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check issues page and submit pull requests.
-
-## License
-This project is open-source and available under the MIT License.
 
 ## Acknowledgments
 - Dataset source: [Enron Email Dataset](https://www.cs.cmu.edu/~enron/)
